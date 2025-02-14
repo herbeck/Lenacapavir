@@ -1,0 +1,12 @@
+name: HIV_Prevention_Cost
+title: HIV_Prevention_Cost
+username: joshherbeck
+account: joshherbeck
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13985885
+bundleId: 9802485
+url: https://joshherbeck.shinyapps.io/HIV_Prevention_Cost/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
